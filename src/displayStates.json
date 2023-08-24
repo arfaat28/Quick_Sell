@@ -1,0 +1,22 @@
+{
+    "status" : {
+        "size" : 5,
+        "states": ["Backlog","Todo","In progress","Done", "Canceled"],
+        "icons": ["https://img.icons8.com/ios-glyphs/30/EA2020/box-important--v1.png" ,
+        "https://img.icons8.com/ios-glyphs/30/261E1C36/circled.png" ,
+            "https://img.icons8.com/metro/26/FCC419/first-quarter.png",
+        "https://img.icons8.com/ios-glyphs/30/5C7CFA/checked--v1.png",
+        "https://img.icons8.com/ios-glyphs/30/261E1C36/cancel.png" 
+        ]
+    },
+
+    "priority" : {
+        "size" : 5,
+        "states": ["No Priority","Low","Medium","High", "Urgent"],
+        "icons" : ["https://img.icons8.com/ios-glyphs/30/000000/circled.png",
+        "https://img.icons8.com/ios-glyphs/30/261E1C36/circled.png",
+        "https://img.icons8.com/metro/26/FCC419/first-quarter.png",
+        "https://img.icons8.com/metro/26/FCC419/first-quarter.png",
+        "https://img.icons8.com/ios-glyphs/30/EA2020/box-important--v1.png"]
+    }
+}

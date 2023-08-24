@@ -1,0 +1,14 @@
+.column{
+    width: 14.3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.column .heading{
+    display: flex;
+    flex-direction: row;
+}
+
+.heading img{
+    margin: auto auto auto 5px; /* top right bottom left */
+}
